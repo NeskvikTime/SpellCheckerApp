@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SpellCheckerApp.Application/SpellCheckerApp.Application.csproj" />
+    <Project Path="src/SpellCheckerApp.Console/SpellCheckerApp.Console.csproj" />
+    <Project Path="src/SpellCheckerApp.Domain/SpellCheckerApp.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SpellCheckerApp.Application.Tests/SpellCheckerApp.Application.Tests.csproj" />
+    <Project Path="tests/SpellCheckerApp.Console.Tests/SpellCheckerApp.Console.Tests.csproj" />
+    <Project Path="tests/SpellCheckerApp.Domain.Tests/SpellCheckerApp.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
